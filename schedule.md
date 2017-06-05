@@ -11,9 +11,9 @@ title: Schedule
 
 
 Date| Paper |  Presenter   | Notes
-    |       |              |
-6-6-17| On the Computational Efficiency of Training Neural Networks [(PDF)](https://arxiv.org/pdf/1410.1141.pdf) | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/05/meet1/)
-6-9-17| Convex Factorization Machines [(PDF)](http://mblondel.org/publications/mblondel-ecmlpkdd2015.pdf)  | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/05/meet1/)
-6-13-17| A small, hairy-skinned sweet ...      | Fruit        | Golden
-6-16-17| A spherical, orange-colored sweet ... | Fruit        | Navel
+------|-------|--------------|-------
+6 June| On the Computational Efficiency of Training Neural Networks [(PDF)](https://arxiv.org/pdf/1410.1141.pdf) | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/05/meet1/)
+9 June| Convex Factorization Machines [(PDF)](http://mblondel.org/publications/mblondel-ecmlpkdd2015.pdf)  | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/05/meet1/)
+13 June| To be decided      | -       | -
+16 June| To be decided  | -        | -
 
