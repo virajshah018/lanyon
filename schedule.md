@@ -7,7 +7,7 @@ title: Schedule
   We meet twice a week - Tuesday and Friday, 2 pm to 3 pm at Coover 3138! 
 </p>
 
-#### Tentative Schedule
+#### Tentative Schedule for Summer 2017
 
 
 Date| Paper |  Presenter   | Notes
