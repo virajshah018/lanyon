@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Summer Reading Group
 tagline:             'Data Science Lab'
-description:         'Summer reading group, part of  <a href="" target="_blank">Data Science Lab</a> at ECpE Department, Iowa State University.'
+description:         '<a href="" target="_blank">Summer reading group</a>, part of  <a href="" target="_blank">Data Science Lab</a> at <a href="" target="_blank">ECpE Department</a>, <a href="" target="_blank">Iowa State University</a>.'
 url:                 http://virajshah018.github.io
 baseurl:             ''
 paginate:            5
