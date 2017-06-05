@@ -9,5 +9,5 @@ We meet twice a week. Currently, our plan is limited to Summer 2017 only.
 Please see our [Reading list]() and [Schedule]() page for more details.
 Details about upcoming meets are posted on [Home](http://virajshah018.github.io).
 
-The group is open for grad student/researcher/professor. Please send an email to [Viraj](http://virajshah978.github.io) at <viraj@iastate.edu> if interested.  
+The group is open for grad students/researchers/professors. Please send an email to [Viraj](http://virajshah978.github.io) at <viraj@iastate.edu> if interested.  
 
