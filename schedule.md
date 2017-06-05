@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule
+datatable:true
 ---
 
 <p class="message">
