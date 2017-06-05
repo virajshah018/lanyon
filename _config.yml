@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Summer Reading Group
 tagline:             'Data Science Lab'
-description:         '<a href="https://virajshah018.github.io/" target="_blank">Summer reading group</a>, part of  <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Data Science Lab</a> at <a href="https://www.ece.iastate.edu/" target="_blank">ECpE Department</a>, <a href="http://www.iastate.edu/" target="_blank">Iowa State University</a>.'
+description:         '<a href="https://virajshah018.github.io/about/" target="_blank">Summer reading group</a>, part of  <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Data Science Lab</a> at <a href="https://www.ece.iastate.edu/" target="_blank">ECpE Department</a>, <a href="http://www.iastate.edu/" target="_blank">Iowa State University</a>.'
 url:                 http://virajshah018.github.io
 baseurl:             ''
 paginate:            5
