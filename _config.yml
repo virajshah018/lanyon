@@ -4,18 +4,18 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Summer Reading Group
+tagline:             'Data Science Lab'
+description:         'Summer reading group, part of  <a href="" target="_blank">Data Science Lab</a> at ECpE Department, Iowa State University.'
+url:                 http://virajshah018.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Data Science Lab
+  url:               http://home.engineering.iastate.edu/~chinmay/index.html
+  email:             viraj@iastate.edu
 
 # Custom vars
 version:             1.0.0
