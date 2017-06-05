@@ -3,28 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+We are group of graduate students and professor associated with [Data Science Lab](http://home.engineering.iastate.edu/~chinmay/) get together to read and udnerstand the very recent papers related to *Theoretical and algorithmic aspects of nonlinear parameter estimation and deep learning*. The aim is to develop *rigourous* understanding of this budding field. One of us will take the lead in presenting the paper. The presenter would go in depth (understand and explain any proofs, etc.) The presenter would also post notes on the paper prior to the meeting.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+We meet twice a week. Currently, our plan is limited to Summer 2017 only.
+Please see our [Reading list]() and [Schedule]() page for more details.
+Details about upcoming meets are posted on [Home](http://virajshah018.github.io).
 
-There are currently two themes built on Poole:
+The group is open for grad student/researcher/professor. Please send an email to [Viraj](http://virajshah978.github.io) at <viraj@iastate.edu> if interested.  
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
