@@ -9,7 +9,7 @@ title: Reading list
 </div>
 
 1. **Polynomial networks, Factorization machines**
-    * [On the Computational Efficiency of Training Neural Networks](http://papers.nips.cc/paper/5267-on-the-computational-efficiency-of-training-neural-networks.pdf), Livni et al, NIPS 2014
+    * [On the Computational Efficiency of Training Neural Networks](http://papers.nips.cc/paper/5267-on-the-computational-efficiency-of-training-neural-networks.pdf), Livni et al, NIPS 2014 [(Details)]()
     * [Polynomial networks and factorization machines](https://arxiv.org/pdf/1607.08810.pdf), Blondel et al., ICML 2016
     * [Multi-Output factorization machines](https://arxiv.org/abs/1705.07603), Blondel et al, preprint 2017
 2. **Invertibility of neural nets**
