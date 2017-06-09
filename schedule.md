@@ -13,7 +13,7 @@ title: Schedule
 Date| Paper |  Presenter   | Notes
 ------|-------|--------------|-------
 6 June| On the Computational Efficiency of Training Neural Networks [(PDF)](https://arxiv.org/pdf/1410.1141.pdf) | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/05/meet1/)
-9 June| Convex Factorization Machines [(PDF)](http://mblondel.org/publications/mblondel-ecmlpkdd2015.pdf)  | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/05/meet1/)
+9 June| Polynomial Networks and Factorization Machines [(PDF)](https://arxiv.org/pdf/1607.08810.pdf)  | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/05/meet1/)
 13 June| To be decided      | -       | -
 16 June| To be decided  | -        | -
 
