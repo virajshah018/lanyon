@@ -9,12 +9,12 @@ title: Reading list
 </div>
 
 1. **Polynomial networks, Factorization machines**
-    * [On the Computational Efficiency of Training Neural Networks](http://papers.nips.cc/paper/5267-on-the-computational-efficiency-of-training-neural-networks.pdf), Livni et al, NIPS 2014 [(Details)](https://virajshah018.github.io//2017/06/05/meet1/)
-    * [Polynomial networks and factorization machines](https://arxiv.org/pdf/1607.08810.pdf), Blondel et al., ICML 2016[(Details)](https://virajshah018.github.io//2017/06/05/meet1/)
+    * [On the Computational Efficiency of Training Neural Networks](http://papers.nips.cc/paper/5267-on-the-computational-efficiency-of-training-neural-networks.pdf), Livni et al., NIPS 2014 [(Details)](https://virajshah018.github.io//2017/06/09/meet1/)
+    * [Polynomial networks and factorization machines](https://arxiv.org/pdf/1607.08810.pdf), Blondel et al., ICML 2016[(Details)](https://virajshah018.github.io//2017/06/09/meet1/)
     * [Multi-Output factorization machines](https://arxiv.org/abs/1705.07603), Blondel et al, preprint 2017
 2. **Invertibility of neural nets**
-    * [Learning RELUs via gradient descent](https://arxiv.org/abs/1705.04591), Soltanolkotabi, 2017.
-    * [Towards understanding invertibility of CNNs](https://arxiv.org/abs/1705.08664), Gilbert et al, 2017.
+    * [Learning RELUs via gradient descent](https://arxiv.org/abs/1705.04591), Soltanolkotabi, 2017. [(Details)](https://virajshah018.github.io//2017/06/12/week2/)
+    * [Towards understanding invertibility of CNNs](https://arxiv.org/abs/1705.08664), Gilbert et al, 2017.[(Details)](https://virajshah018.github.io//2017/06/12/week2/)
     * [Identity matters in deep learning](https://arxiv.org/pdf/1611.04231.pdf), Hardt and Ma, 2017.
 3. **Recurrent models and sparse coding**
     * [Recurrent inference machines](http://www.ics.uci.edu/~welling/publications/papers/Submitted2016-RIM.pdf), Welling et al.
