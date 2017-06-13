@@ -20,6 +20,7 @@ title: Reading list
     * [Recurrent inference machines](http://www.ics.uci.edu/~welling/publications/papers/Submitted2016-RIM.pdf), Welling et al.
     * [Understanding Sparse Coding via Matrix Factorization](https://arxiv.org/pdf/1609.00285.pdf), Bruna 2017
     * [Convolutional NNs and convolutional sparse coding](https://arxiv.org/pdf/1607.08194.pdf), Elad et al.
+    * [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf), Andrychowicz et al. 2016 
 4. **Statistical aspects of neural net learning**
     * [Why and When Can Deep – but Not Shallow – Networks Avoid the Curse of Dimensionality: a Review](https://arxiv.org/pdf/1611.00740.pdf), Poggio et al., 2016.
     * [L1-regularized Neural Networks are Improperly Learnable in Polynomial Time](http://proceedings.mlr.press/v54/zhang17a/zhang17a.pdf), Wainwright et al., 2017.
