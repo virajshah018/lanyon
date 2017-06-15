@@ -16,4 +16,5 @@ Date| Paper |  Presenter   | Notes
 9 June| Polynomial Networks and Factorization Machines [(PDF)](https://arxiv.org/pdf/1607.08810.pdf)  | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/09/week1/)
 13 June| Learning ReLUs via gradient descent [(PDF)](https://arxiv.org/pdf/1705.04591.pdf)  | Gauri | [Notes](https://virajshah018.github.io//2017/06/12/week2/)
 16 June| Towards understanding invertibility of CNNs [(PDF)](https://arxiv.org/pdf/1705.08664.pdf)  | Gauri  | [Notes](https://virajshah018.github.io//2017/06/12/week2/)
+20 June| **No meeting** (owing to [MMLS](http://mjt.web.engr.illinois.edu/mmls_17/) | --| --
 
