@@ -17,4 +17,4 @@ Date| Paper |  Presenter   | Notes
 13 June| Learning ReLUs via gradient descent [(PDF)](https://arxiv.org/pdf/1705.04591.pdf)  | Gauri | [Notes](https://virajshah018.github.io//2017/06/12/week2/)
 16 June| Learning ReLUs via gradient descent [(PDF)](https://arxiv.org/pdf/1705.04591.pdf)  | Gauri  | [Notes](https://virajshah018.github.io//2017/06/12/week2/)
 20 June| **No meeting** (owing to [MMLS](http://mjt.web.engr.illinois.edu/mmls_17/)) | --| --
-23 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf)  | Viraj | [Notes](https://virajshah018.github.io//2017/06/23/week3/)
+23 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf)  | Viraj | [Notes](https://virajshah018.github.io//2017/06/22/week3/)
