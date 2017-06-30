@@ -19,4 +19,4 @@ Date| Paper |  Presenter   | Notes
 20 June| **No meeting** (owing to [MMLS](http://mjt.web.engr.illinois.edu/mmls_17/)) | --| --
 23 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf)  | Viraj | [Notes](https://virajshah018.github.io//2017/06/22/week3/)
 27 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf), Wasserstein GAN[(PDF)](https://arxiv.org/pdf/1701.07875.pdf)  | Viraj, Dr. Hegde | [Notes](https://virajshah018.github.io//2017/06/26/week4/)
-30 June| Wasserstein GAN[(PDF)](https://arxiv.org/pdf/1701.07875.pdf)  | Viraj | [Notes](https://virajshah018.github.io//2017/06/26/week4/)
+30 June| Compressed sensing using generative models,[(PDF)](https://arxiv.org/pdf/1703.03208.pdf)| Praneeth | [Notes](https://virajshah018.github.io//2017/06/29/week5/)
