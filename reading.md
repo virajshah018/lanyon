@@ -31,6 +31,7 @@ title: Reading list
     * [Wasserstein GANs](https://arxiv.org/pdf/1701.07875.pdf), Arjovsky, 2017.
     * [Stabilizing GANs via random projections](https://arxiv.org/pdf/1705.07831.pdf), Neyshabur et al, 2017
     * [Global guarantees for Enforcing Deep Generative Priors](https://arxiv.org/pdf/1705.07576.pdf), Hand et al, 2017.
+    * [Towards Understanding the Dynamics of Generative Adversarial Networks](https://arxiv.org/pdf/1706.09884.pdf), Jerry Li et al, 2017.
 
 
 
