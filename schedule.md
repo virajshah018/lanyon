@@ -21,3 +21,4 @@ Date| Paper |  Presenter   | Notes
 27 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf), Wasserstein GAN[(PDF)](https://arxiv.org/pdf/1701.07875.pdf)  | Viraj, Dr. Hegde | [Notes](https://virajshah018.github.io//2017/06/26/week4/)
 30 June| Compressed sensing using generative models [(PDF)](https://arxiv.org/pdf/1703.03208.pdf)| Praneeth | [Notes](https://virajshah018.github.io//2017/06/29/week5/)
 7 July| Understanding Trainable Sparse Coding with Matrix Factorization [(PDF)](https://arxiv.org/pdf/1609.00285.pdf)| Thanh | [Notes](https://virajshah018.github.io//2017/07/06/week6/)
+11 July| Maximal Sparsity with Deep Networks?[(PDF)](https://arxiv.org/pdf/1605.01636.pdf) | Thanh | [Notes](https://virajshah018.github.io//2017/07/10/week7/)
