@@ -22,3 +22,5 @@ Date| Paper |  Presenter   | Notes
 30 June| Compressed sensing using generative models [(PDF)](https://arxiv.org/pdf/1703.03208.pdf)| Praneeth | [Notes](https://virajshah018.github.io//2017/06/29/week5/)
 7 July| Understanding Trainable Sparse Coding with Matrix Factorization [(PDF)](https://arxiv.org/pdf/1609.00285.pdf)| Thanh | [Notes](https://virajshah018.github.io//2017/07/06/week6/)
 11 July| Maximal Sparsity with Deep Networks?[(PDF)](https://arxiv.org/pdf/1605.01636.pdf) | Thanh | [Notes](https://virajshah018.github.io//2017/07/10/week7/)
+14 July| **No meeting** (owing to [MBDSS](http://mbds.cs.iastate.edu/2017/index.shtml)) | --| --
+18 July| Stabilizing GAN Training with Multiple Random Projections[(PDF)](https://arxiv.org/pdf/1705.07831.pdf) | Viraj | [Notes](https://virajshah018.github.io//2017/07/17/week8/)
